@@ -1,5 +1,3 @@
-//go:build linux
-
 // Package osrelease reads and parses the os-release file, which describes
 // the Linux distribution. It tries /etc/os-release first, falling back to
 // /usr/lib/os-release as defined in the os-release(5) specification.

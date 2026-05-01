@@ -1,5 +1,3 @@
-//go:build linux
-
 // Package limits reads and parses /etc/security/limits.conf,
 // which defines resource limits for users and groups on Linux systems.
 package limits
